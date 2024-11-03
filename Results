@@ -1,0 +1,108 @@
+Matrix size: 10
+Parallel thread count: 2
+Pool size: 2
+Starting ...
+[5 milliseconds] Skip Parallel
+[7 milliseconds] Row Parallel
+[0 milliseconds] Column Parallel
+[1 milliseconds] Skip Pooled
+[8 milliseconds] Row Pooled
+[9 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 10
+Parallel thread count: 10
+Pool size: 10
+Starting ...
+[7 milliseconds] Skip Parallel
+[11 milliseconds] Row Parallel
+[15 milliseconds] Column Parallel
+[5 milliseconds] Skip Pooled
+[3 milliseconds] Row Pooled
+[2 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 50
+Parallel thread count: 10
+Pool size: 10
+Starting ...
+[22 milliseconds] Skip Parallel
+[4 milliseconds] Row Parallel
+[5 milliseconds] Column Parallel
+[6 milliseconds] Skip Pooled
+[9 milliseconds] Row Pooled
+[8 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 100
+Parallel thread count: 10
+Pool size: 10
+Starting ...
+[15 milliseconds] Skip Parallel
+[20 milliseconds] Row Parallel
+[11 milliseconds] Column Parallel
+[16 milliseconds] Skip Pooled
+[22 milliseconds] Row Pooled
+[16 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 150
+Parallel thread count: 10
+Pool size: 10
+Starting ...
+[34 milliseconds] Skip Parallel
+[19 milliseconds] Row Parallel
+[20 milliseconds] Column Parallel
+[46 milliseconds] Skip Pooled
+[60 milliseconds] Row Pooled
+[39 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 150
+Parallel thread count: 4
+Pool size: 4
+Starting ...
+[21 milliseconds] Skip Parallel
+[22 milliseconds] Row Parallel
+[39 milliseconds] Column Parallel
+[65 milliseconds] Skip Pooled
+[75 milliseconds] Row Pooled
+[70 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 150
+Parallel thread count: 4
+Pool size: 20
+Starting ...
+[28 milliseconds] Skip Parallel
+[18 milliseconds] Row Parallel
+[17 milliseconds] Column Parallel
+[28 milliseconds] Skip Pooled
+[90 milliseconds] Row Pooled
+[35 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 250
+Parallel thread count: 2
+Pool size: 30
+Starting ...
+[96 milliseconds] Skip Parallel
+[101 milliseconds] Row Parallel
+[127 milliseconds] Column Parallel
+[107 milliseconds] Skip Pooled
+[241 milliseconds] Row Pooled
+[121 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
+Matrix size: 250
+Parallel thread count: 4
+Pool size: 10
+Starting ...
+[82 milliseconds] Skip Parallel
+[78 milliseconds] Row Parallel
+[78 milliseconds] Column Parallel
+[152 milliseconds] Skip Pooled
+[237 milliseconds] Row Pooled
+[119 milliseconds] Column Pooled
+All multiplications completed successfully
+===========================================
